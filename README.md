@@ -1,5 +1,3 @@
-# Rekomendasi-Negara
-
 # Clustering the Countries using K-Means for HELP International
 
 ### Author: Bagas Eko Tjahyono Putro
